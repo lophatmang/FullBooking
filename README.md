@@ -54,5 +54,5 @@
   <li>Later</li>
   <li>npm run dev</li>
   <li>to run the program</li>
-  <li>run on the port 3100</li>
+  <li>run on the port 3001</li>
 </ol>
