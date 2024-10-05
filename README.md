@@ -42,9 +42,9 @@
   <li>Later</li>
   <li>npm run dev</li>
   <li>to run the program</li>
-  <li>run on the port </li>
+  <li>run on the port 3000</li>
 </ol>
-<p>Admin Client code: 3000</p>
+<p>Admin Client code:</p>
 <ol>
   <li>Download or Clone the folder</li>
   <li>open project in code editor </li>
